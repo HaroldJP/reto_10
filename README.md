@@ -4,7 +4,7 @@
 
 Desarrollar un algoritmo que calcule el promedio de un arreglo de reales.
 
-Aquí me inspiré y dejé dos opciones. Ambos programan sirven para lo mismo con la diferencia que el primero que voy a colocar sirve para calcular el promedio de un areglo de 3 números ingresados por teclado.
+Aquí me inspiré y dejé dos opciones. Ambos programas sirven para lo mismo con la diferencia que el primero que voy a colocar sirve para calcular el promedio de un areglo de 3 números ingresados por teclado.
 
 ```python
 ##Vamos a utilizar un arreglo de 3 números
@@ -86,6 +86,7 @@ if __name__ == "__main__":
 
 ### Punto 3
 
+Este último punto sí lo hice con la única opción de ingresar manualmente dentro del código los números y la longitud que quiera el usuario.
 Hacer un algoritmo que deje al final de un arreglo de números todos los ceros que aparezcan en dicho arreglo.
 
 ```python
